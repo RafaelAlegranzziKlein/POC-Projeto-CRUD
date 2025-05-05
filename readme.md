@@ -1,6 +1,8 @@
 ## Projeto Feira on-line
 
-    Este projeto tem o intuito de fazer uma rede de feiras  locais serem mais acessível fazendo um site online para melhor acesso dos clientes e produtores.
+### Objetivo do sistema
+
+Este projeto tem o intuito de fazer uma rede de feiras     locais serem mais acessível fazendo um site online para melhor acesso dos clientes e produtores.
 #
 ### Tecnologias usadas
 - [x] HTML
